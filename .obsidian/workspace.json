@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05.RL with Source.md",
+                "file": "06.Second Order.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05.RL with Source"
+              "title": "06.Second Order"
             }
           }
         ]
@@ -170,22 +170,23 @@
   },
   "active": "0393078d91d29129",
   "lastOpenFiles": [
+    "img/25.png",
+    "img/24.png",
+    "img/24.png",
+    "img/23.png",
+    "01.Source-free RC circuits.md",
+    "06.Second Order.md",
+    "05.RL with Source.md",
     "img/22.png",
     "img/21.png",
     "img/20.png",
     "img/17.png",
-    "05.RL with Source.md",
     "img/17 1.png",
     "04.RC with Source.md",
-    "01.Source-free RC circuits.md",
     "02.Source-free RL circuits.md",
     "03.Singularity Functions.md",
     "img/19.png",
     "img/18.png",
-    "img/7.png",
-    "img/16.png",
-    "img/15.png",
-    "img/14.png",
     "img"
   ]
 }
